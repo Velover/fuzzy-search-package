@@ -128,6 +128,7 @@ export namespace FuzzySearch {
 		return jaro_dist;
 	}
 
+	//TODO put not matching in options
 	export function SortByJaroWinkler<T>(
 		search_input: string,
 		array: readonly T[],
