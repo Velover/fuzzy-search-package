@@ -1,4 +1,4 @@
-Fuzzy search allows you to find the results even with the spelling mistaces or approximate search words
+Fuzzy search allows you to find the results even with spelling mistakes or approximate search words
 
 # Searches
 - FuzzySearch.JaroWinkler
