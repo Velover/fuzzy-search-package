@@ -1,5 +1,7 @@
 Fuzzy search allows you to find the results even with spelling mistakes or approximate search words
 
+**[Roblox Test Place](<https://www.roblox.com/games/118296535262249/FuzzySearch-Test-Place>)**
+
 # Searches
 - FuzzySearch.JaroWinkler
 
