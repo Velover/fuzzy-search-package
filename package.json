@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/fuzzy-search",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"main": "out/init.lua",
 	"scripts": {
 		"build": "rbxtsc",
@@ -39,6 +39,5 @@
 		"url": "https://github.com/Velover/fuzzy-search-package/issues"
 	},
 	"homepage": "https://github.com/Velover/fuzzy-search-package#readme",
-	"dependencies": {},
 	"description": "Fuzzy search allows you to find the results even with the spelling mistaces or approximate search words"
 }
