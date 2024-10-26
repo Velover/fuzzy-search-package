@@ -174,9 +174,9 @@ export namespace JaroWinklerSearch {
 	export function SortObjects<T>(
 		search_input: string,
 		data: readonly T[],
-		min_value: number = 0,
 		selector: (value: T) => string,
 		case_sensitive?: boolean,
+		min_value: number = 0,
 	) {
 		const results = new Array<[number, T]>(data.size());
 		let k = 0;
